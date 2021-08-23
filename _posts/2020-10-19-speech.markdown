@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "A Model Compression Method With Matrix Product Operators for Speech Enhancement"
+title:  "经营期望落差对公司研发投入的影响——基于沪深A股上市公司的实证分析"
 date:   2020-10-19 18:04:44 +00:00
-image: images/speech_pic.png
-categories: 2020_research
-author: Ze-Feng Gao
-authors: "Xingwei Sun*, <strong>Ze-Feng Gao*</strong>, Zhong-Yi Lu<sup>#</sup>, Junfeng Li<sup>#</sup>, Yonghong Yan"
-venue: "IEEE/ACM Transactions on Audio, Speech, and Language Processing 28, 2837-2847"
-paper: https://ieeexplore.ieee.org/abstract/document/9222236
+image: images/jingying.png
+categories: research
+author: Ruo-Qi Qin
+authors: "</strong>秦若琦</strong>， 荆竹翠*"
+venue: "Sweeping over the Management； 现代商业"
+paper: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201925054&v=onV58q2y0mNsNQalupYPeeMtoA%25mmd2BKFjzMcZpAjIoZRBztoQ9%25mmd2BkbNUDZ0OA6WNT6QG
 # slides: /pdfs/acl_liupeiyu_4113.pdf
 # code: https://github.com/RUCAIBox/MPOP
 ---
-In this paper, we propose a model compression method based on matrix product operators (MPO) to substantially reduce the number of parameters in DNN models for speech enhancement.
+本文以我国沪深A股2012年～2016年1932家上市公司为研究样本,运用分位数回归,实证分析了资本市场的经营预期与公司实际绩效差距对公司研发行为的影响以及股权结构对二者的调节作用。研究结果表明,当企业的实际绩效低于市场预期时,管理层倾向于减少研发投入,当实际绩效高于市场预期时,管理层为了可以继续实现预期绩效,仍将减少研发投入;在股权过度集中的企业中,"一股独大"导致公司决策的不合理,绩效差距对研发投入的负向影响更加强烈;在股权制衡度高的企业中,股东之间的相互约束将促进公司治理,从而减弱绩效差距对研发投入的负向影响。 
