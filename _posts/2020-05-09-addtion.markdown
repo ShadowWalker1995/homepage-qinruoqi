@@ -5,9 +5,9 @@ date:   2020-10-19 18:04:44 +00:00
 image: images/addtion.png
 categories: research
 author: Ruo-Qi Qin
-authors: "朱向波 李震翼 <strong>秦若琦</strong> 荆竹翠*"
+authors: "朱向波，李震翼，<strong>秦若琦</strong>，荆竹翠*"
 venue: "经济管理"
-paper: "pdfs/pdf1.pdf"
+paper: pdfs/pdf1.pdf
 # slides: /pdfs/acl_liupeiyu_4113.pdf
 # code: https://github.com/RUCAIBox/MPOP
 ---
