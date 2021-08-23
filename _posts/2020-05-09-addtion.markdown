@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "研发投入、市场竞争敏感度与企业竞争相对位置"
+date:   2020-10-19 18:04:44 +00:00
+image: images/jingying.png
+categories: research
+author: Ruo-Qi Qin
+authors: "朱向波 李震翼 </strong>秦若琦</strong> 荆竹翠*"
+# venue: "Sweeping over the Management； 现代商业"
+paper: <a href="pdfs/pdf1.pdf">
+# slides: /pdfs/acl_liupeiyu_4113.pdf
+# code: https://github.com/RUCAIBox/MPOP
+---
+在国家创新驱动战略的宏观背景下，企业通过研发投入保持自身产品的异质性，以在激烈的市场竞争中取得良好的竞争地位，是企业维持自身生存和发展的必然之路。本文通过2012——2016 年沪深A 股上市公司 287 家制造业公司的面板数据，分析发现，企业研发投入有利于企业竞争相对位置的提升，同时不同市场下企业对创新的敏感度不一使其进行研发投入的积极性和实际效果有较大影响，主要体现为企业进行研发投入效益差别所带来的企业现金流分配差异。
