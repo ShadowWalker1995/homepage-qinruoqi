@@ -5,8 +5,8 @@ date:   2020-10-19 18:04:44 +00:00
 image: images/jingying.png
 categories: research
 author: Ruo-Qi Qin
-authors: "</strong>秦若琦</strong>， 荆竹翠*"
-venue: "Sweeping over the Management； 现代商业"
+authors: "<strong>秦若琦</strong>， 荆竹翠*"
+venue: "现代商业"
 paper: https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201925054&v=onV58q2y0mNsNQalupYPeeMtoA%25mmd2BKFjzMcZpAjIoZRBztoQ9%25mmd2BkbNUDZ0OA6WNT6QG
 # slides: /pdfs/acl_liupeiyu_4113.pdf
 # code: https://github.com/RUCAIBox/MPOP
