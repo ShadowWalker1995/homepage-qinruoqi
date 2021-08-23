@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "经营期望落差对公司研发投入的影响——基于沪深A股上市公司的实证分析"
-date:   2020-10-19 18:04:44 +00:00
+date:   2019-10-19 18:04:44 +00:00
 image: images/jingying.png
 categories: research
 author: Ruo-Qi Qin

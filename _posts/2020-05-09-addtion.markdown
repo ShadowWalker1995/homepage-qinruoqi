@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "研发投入、市场竞争敏感度与企业竞争相对位置"
-date:   2020-10-19 18:04:44 +00:00
+date:   2019-10-19 18:04:44 +00:00
 image: images/addtion.png
 categories: research
 author: Ruo-Qi Qin
